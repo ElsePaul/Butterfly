@@ -29,12 +29,6 @@ the unique item here is the ability to send SMS to several numbers at once.
 
 ## INSTALLATION [Termux] [Linux] :
 
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `apt install python -y`
-* `git clone https://github.com/RazorKenway/R-Bomber.git`
-* `cd R-Bomber`
-* `python main.py`
 
 
 
